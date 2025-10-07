@@ -48,4 +48,4 @@ By the end of the project, we can identify musical clusters that represent genre
 ---
 
 ## Author
-Name : <Aswathy B>
+Name : ASWATHY
