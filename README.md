@@ -47,8 +47,5 @@ By the end of the project, we can identify musical clusters that represent genre
 
 ---
 
-## 🖥️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/amazon-music-clustering.git
-   cd amazon-music-clustering
+## Author
+Name : <Aswathy B>
